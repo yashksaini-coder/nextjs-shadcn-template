@@ -115,6 +115,8 @@ export default function Home() {
                       buttonVariants({ variant: "ghost", size: "icon" }),
                       "size-12 rounded-full",
                     )}
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <social.icon className="size-4" />
                   </a>
